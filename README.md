@@ -12,10 +12,10 @@ Ex.: https://www.apachefriends.org/pt_br/index.html
 
 
 <h2>📝Funções:</h2>
-<p>Ao adicionar uma tarefa a fazer a mesma continuará listada até que se marque como concluída por meio do checkbox.</p>
-<p>É possível editar uma tarefa que foi, por exemplo, escrita erroneamente</p>
-<p>Assim como é capaz de excluir, uma vez que não foi concluída</p>
-<p>No menu "Todas tarefas" é possível visualizar todas as tarefas que foram realizadas e pendentes</p>
+<p>Ao adicionar uma tarefa a fazer a mesma continuará listada até que se marque como concluída por meio do checkbox;</p>
+<p>É possível editar uma tarefa que foi, por exemplo, escrita erroneamente;</p>
+<p>Assim como é capaz de excluir, uma vez que não foi concluída;</p>
+<p>No menu "Todas tarefas" é possível visualizar todas as tarefas que foram realizadas e pendentes.</p>
 
 
 <h2>👥Autores:</h2>
